@@ -14,7 +14,7 @@
 | :---: | :---: |
 | Languages | ![Python](https://img.shields.io/badge/-Python-22272e?logo=python) ![C](https://img.shields.io/badge/-C-22272e?logo=c) ![C++](https://img.shields.io/badge/-C-22272e?logo=cpp) 
 | Version Control | ![Git](https://img.shields.io/badge/-Git-22272e?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-22272e?logo=github)  |
-| Frontend | ![React](https://img.shields.io/badge/-React-22272e?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-22272e?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite) ![Redux](https://img.shields.io/badge/-Redux-22272e?logo=redux&logoColor=ba8fff) |
+| Frontend | ![HTML](https://img.shields.io/badge/-React-22272e?logo=html) ![CSS](https://img.shields.io/badge/-Next.js-22272e?logo=css) ![Javascript](https://img.shields.io/badge/-Vite-22272e?logo=javascript) |
 | Backend | ![Node.js](https://img.shields.io/badge/-Node.js-22272e?logo=node.js)  ![Firebase](https://img.shields.io/badge/-Firebase-22272e?logo=firebase)  |
 | Styling | ![Sass](https://img.shields.io/badge/-Sass-22272e?logo=sass)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-22272e?logo=tailwind-css) 
 | Test Utilities | ![Jest](https://img.shields.io/badge/-Jest-22272e?logo=jest) ![Vitest](https://img.shields.io/badge/-Vitest-22272e?logo=vitest) |
