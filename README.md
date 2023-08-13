@@ -18,7 +18,5 @@
 | Backend | ![Flask](https://img.shields.io/badge/-Flask-22272e?logo=node.flask)  ![Django](https://img.shields.io/badge/-Django-22272e?logo=django)  |
 | Styling | ![Sass](https://img.shields.io/badge/-Sass-22272e?logo=sass)  ![CSS](https://img.shields.io/badge/-CSS-22272e?logo=css) 
 | Test Utilities | ![Pytest](https://img.shields.io/badge/-Pytest-22272e?logo=pytest) |
-| Deployment | ![Vercel](https://img.shields.io/badge/-Vercel-22272e?logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-22272e?logo=netlify) |
-| Package Managers |  ![Yarn](https://img.shields.io/badge/-Yarn-22272e?logo=yarn) ![NPM](https://img.shields.io/badge/-NPM-22272e?logo=npm) |
 | Other | ![Linux](https://img.shields.io/badge/-Linux-22272e?logo=linux)  
 
