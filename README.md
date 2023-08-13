@@ -12,7 +12,7 @@
 
 | Technology Group | Technologies |
 | :---: | :---: |
-| Languages | ![Python](https://img.shields.io/badge/-Python-22272e?logo=python) ![C](https://img.shields.io/badge/-C-22272e?logo=c) 
+| Languages | ![Python](https://img.shields.io/badge/-Python-22272e?logo=python) ![C](https://img.shields.io/badge/-C-22272e?logo=c) ![Javascript](https://img.shields.io/badge/-C-22272e?logo=javascript) ![C++](https://img.shields.io/badge/-C-22272e?logo=c++) 
 | Version Control | ![Git](https://img.shields.io/badge/-Git-22272e?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-22272e?logo=github)  |
 | Frontend | ![React](https://img.shields.io/badge/-React-22272e?logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-22272e?logo=next.js) ![Vite](https://img.shields.io/badge/-Vite-22272e?logo=vite) ![Redux](https://img.shields.io/badge/-Redux-22272e?logo=redux&logoColor=ba8fff) |
 | Backend | ![Node.js](https://img.shields.io/badge/-Node.js-22272e?logo=node.js)  ![Firebase](https://img.shields.io/badge/-Firebase-22272e?logo=firebase)  |
