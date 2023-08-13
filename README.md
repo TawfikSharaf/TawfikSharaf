@@ -15,7 +15,7 @@
 | Languages | ![Python](https://img.shields.io/badge/-Python-22272e?logo=python) ![C](https://img.shields.io/badge/-C-22272e?logo=c) ![C++](https://img.shields.io/badge/-C++-22272e?logo=cpp) 
 | Version Control | ![Git](https://img.shields.io/badge/-Git-22272e?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-22272e?logo=github)  |
 | Frontend | ![HTML](https://img.shields.io/badge/-HTML-22272e?logo=html) ![CSS](https://img.shields.io/badge/-CSS-22272e?logo=css) ![Javascript](https://img.shields.io/badge/-Javascript-22272e?logo=javascript) |
-| Backend | ![Node.js](https://img.shields.io/badge/-Node.js-22272e?logo=node.js)  ![Firebase](https://img.shields.io/badge/-Firebase-22272e?logo=firebase)  |
+| Backend | ![Flask](https://img.shields.io/badge/-Flask-22272e?logo=node.flask)  ![Django](https://img.shields.io/badge/-Django-22272e?logo=django)  |
 | Styling | ![Sass](https://img.shields.io/badge/-Sass-22272e?logo=sass)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-22272e?logo=tailwind-css) 
 | Test Utilities | ![Jest](https://img.shields.io/badge/-Jest-22272e?logo=jest) ![Vitest](https://img.shields.io/badge/-Vitest-22272e?logo=vitest) |
 | Deployment | ![Vercel](https://img.shields.io/badge/-Vercel-22272e?logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-22272e?logo=netlify) |
