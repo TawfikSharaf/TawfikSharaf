@@ -20,5 +20,5 @@
 | Test Utilities | ![Pytest](https://img.shields.io/badge/-Pytest-22272e?logo=pytest) |
 | Deployment | ![Vercel](https://img.shields.io/badge/-Vercel-22272e?logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-22272e?logo=netlify) |
 | Package Managers |  ![Yarn](https://img.shields.io/badge/-Yarn-22272e?logo=yarn) ![NPM](https://img.shields.io/badge/-NPM-22272e?logo=npm) |
-| Other | ![Linux](https://img.shields.io/badge/-Linux-22272e?logo=linux) ![Markdown](https://img.shields.io/badge/-Markdown-22272e?logo=markdown) 
+| Other | ![Linux](https://img.shields.io/badge/-Linux-22272e?logo=linux)  
 
