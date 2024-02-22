@@ -4,7 +4,7 @@
 
 <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=mokhtarmramadan&show_icons=true&border_radius=5&theme=github_dark_dimmed" alt="datsfilipe's stats"/>
 
-- :mailbox_with_mail: Reach me at <a href="mailto:contato@datsfilipe.dev" target="_blank">mokhtarramdanformal@gmail.com
+- :mailbox_with_mail: Reach me at [My Email](mailto:mokhtarramdanformal@gmail.com)
 - :briefcase: I have been making projects with **C, Python, CPP, Django, Flask and Javascript** 
 - :books: I'm currently learning **Javascript and SQL**
 
